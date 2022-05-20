@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC020_AddRatings-unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>410175fb-f425-40cc-bf65-f8ed1bb6565f</testCaseGuid>
+</TestCaseEntity>

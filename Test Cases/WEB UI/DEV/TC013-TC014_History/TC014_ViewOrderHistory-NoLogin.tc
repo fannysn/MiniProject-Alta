@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC014_ViewOrderHistory-NoLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec6c32e7-3abf-43b1-9843-6d5d673d0735</testCaseGuid>
+</TestCaseEntity>

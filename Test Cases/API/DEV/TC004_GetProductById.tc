@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_GetProductById</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fe45a15-6943-462e-9b92-bc44ef9490ac</testCaseGuid>
+</TestCaseEntity>

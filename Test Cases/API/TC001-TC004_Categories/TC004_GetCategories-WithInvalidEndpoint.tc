@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_GetCategories-WithInvalidEndpoint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a65ec34-b97e-4873-99f1-13235da09ea5</testCaseGuid>
+</TestCaseEntity>

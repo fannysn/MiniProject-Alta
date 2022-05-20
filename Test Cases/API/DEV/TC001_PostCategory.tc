@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_PostCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e24f17f6-d3a9-4cbe-8590-90423dc88649</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d0ac7bc3-ad65-4bb0-8dec-6aee5448d75e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'kategori baru'</defaultValue>
+      <description></description>
+      <id>d0ac7bc3-ad65-4bb0-8dec-6aee5448d75e</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

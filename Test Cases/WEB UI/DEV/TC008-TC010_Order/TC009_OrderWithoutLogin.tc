@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009_OrderWithoutLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a662da44-d289-4d60-bb60-38c5bcb20a51</testCaseGuid>
+</TestCaseEntity>

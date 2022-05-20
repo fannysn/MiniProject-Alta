@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f90d1329-dbe8-4f81-ae62-e05e08798d76</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>85e19718-016e-432e-8842-f83af3873519</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2eb73835-9459-43f3-8fb8-0199baf34989</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>44327077-45aa-4974-8e87-700dd88298b9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['izza123@gmail.com', GlobalVariable.Web_name]</defaultValue>
+      <description></description>
+      <id>85e19718-016e-432e-8842-f83af3873519</id>
+      <masked>false</masked>
+      <name>fullName</name>
+   </variable>
+   <variable>
+      <defaultValue>['zzalen@gmail.com', GlobalVariable.Web_email]</defaultValue>
+      <description></description>
+      <id>2eb73835-9459-43f3-8fb8-0199baf34989</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>[' ', GlobalVariable.Web_pass]</defaultValue>
+      <description></description>
+      <id>44327077-45aa-4974-8e87-700dd88298b9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009_GetTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f50546a7-8667-4d7f-b1bb-699df762b12a</testCaseGuid>
+</TestCaseEntity>
